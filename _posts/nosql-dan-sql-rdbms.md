@@ -12,7 +12,7 @@ ogImage:
 
 ## Konsep Relasional & Non Relasional database
 
-- Megapa noSQL menjadi salah satu hal penting untuk dipelajari dan diterapkan pada suatu sistem didunia industri saat ini.
+- Mengapa noSQL menjadi salah satu hal penting untuk dipelajari dan diterapkan pada suatu sistem didunia industri saat ini.
 
 noSQL adalah database dimana relasi tidak begitu diperhatikan, jenis data yang fleksibel untuk ditampung dalam skala besar. Scaling untuk penampungan data. Hal ini yang menjadikan noSQL adalah pilihan terbaik untuk sharing data skala besar dari satu sumber resource ke berbagai App.
 
